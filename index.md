@@ -7,7 +7,7 @@ title: Home
 **PhD Student** · IIT Bombay, ANERG Lab  
 📍 Mumbai, India · 📧 abhiinav.18@gmail.com · 24d1232@iitb.ac.in
 
-Hi! I’m a PhD student working on **Air Quality**, **Emission Inventory**, **Remote Sensing**, and **Climate Change**, with interest and experience in **numerical weather models** and **chemistry-transport models** (e.g., WRF-Chem, MOZART).
+I work on **Air Quality**, **Emission Inventory**, **Remote Sensing**, and **Climate Change**, with interest and experience in **numerical weather models** and **chemistry-transport models** (e.g., WRF-Chem, MOZART).
 
 **Quick links:**  
 - 👉 [Projects](./projects)  
@@ -21,4 +21,4 @@ Hi! I’m a PhD student working on **Air Quality**, **Emission Inventory**, **Re
 
 ## Contact
 - Email: abhiinav.18@gmail.com / 24d1232@iitb.ac.in  
-- GitHub: [@abhiinav-18](https://github.com/abhiinav-18)  
+- GitHub: [@abhiinav-18](https://github.com/abhiinav-18)
