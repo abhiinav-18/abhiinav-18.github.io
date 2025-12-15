@@ -1,0 +1,28 @@
+title: "Abhinav Sharma"
+description: "PhD Student | Research areas: Air Quality, Emission Inventory, Remote Sensing, Climate Change"
+url: "https://abhiinav-18.github.io"
+
+# Theme (nicer look than Minimal)
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Top navigation
+header_pages:
+  - projects.md
+  - publications.md
+
+author:
+  name: "Abhinav Sharma"
+  role: "PhD Student"
+  affiliation: "IIT Bombay, ANERG Lab"
+  email: "abhiinav.18@gmail.com, 24d1232@iitb.ac.in"
+  location: "Mumbai, India"
+
+social:
+  github: "https://github.com/abhiinav-18"
+  scholar: "https://scholar.google.com/citations?user=IbVex8EAAAAJ&hl=en"
+  linkedin: "https://in.linkedin.com/in/abhinav-sharma-698442262"
+
+show_downloads: false
+logo: ""   # leave empty until you add /assets/profile.jpg
